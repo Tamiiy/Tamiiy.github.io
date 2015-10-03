@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Blog Name</title>
+  <subtitle>Blog subtitle</subtitle>
+  <id>http://blog.url.com/</id>
+  <link href="http://blog.url.com/"/>
+  <link href="http://blog.url.com/feed.xml" rel="self"/>
+  <updated>2015-09-30T00:00:00+09:00</updated>
+  <author>
+    <name>Blog Author</name>
+  </author>
+  <entry>
+    <title>milkcocoa girlsに登壇してきました！</title>
+    <link rel="alternate" href="http://blog.url.com/2015/09/30/tech-article-2.html"/>
+    <id>http://blog.url.com/2015/09/30/tech-article-2.html</id>
+    <published>2015-09-30T00:00:00+09:00</published>
+    <updated>2015-10-03T18:37:50+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;こんばんわ、タミーです。&lt;br&gt;
+人生史上初のイベント登壇をしてきました！！&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://mlkcca.connpass.com/event/19582/"&gt;登壇者女子限定 Milkcocoa Girls ! Milkcocoa Meetup vol4&lt;br&gt;
+&lt;img alt="milkcocoa" src="/hipstar-blog/images/milkcocoa.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;at 弊社&lt;a href="https://geechs-magazine.com/21cafe/index"&gt;21cafe&lt;/a&gt;。&lt;/p&gt;
+
+&lt;blockquote class="twitter-tweet" lang="ja"&gt;&lt;p lang="ja" dir="ltr"&gt;半年ぶりのMeetup&amp;#10;Milkcocoa Girlsとか、&amp;#10;こんな風になるなど半年前に想像できただろうか(反語 &lt;a href="https://twitter.com/hashtag/mlkcca?src=hash"&gt;#mlkcca&lt;/a&gt; &lt;a href="http://t.co/UGn4Df6rGM"&gt;pic.twitter.com/UGn4Df6rGM&lt;/a&gt;&lt;/p&gt;&amp;mdash; えむにわ (@m2wasabi) &lt;a href="https://twitter.com/m2wasabi/status/648809695365337088"&gt;2015, 9月 29&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;script async src="//platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;strong&gt;結論、IT女子すごい。milkcocoaすごい。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;なにがすごいのかちょっとご紹介させてください。&lt;/p&gt;
+
+&lt;h2 id="milkcocoaってなに？"&gt;Milkcocoaってなに？&lt;/h2&gt;
+
+&lt;p&gt;私的にMilkcocoaを一言でいうと、&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;『これ作りたい！という想いをすぐに形にしてできてしまう魔法のBaaS』&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;マジック&lt;/strong&gt;です。&lt;br&gt;
+たったの1行挿入するだけで、本当にバックエンドをすべてやってくれるんです。&lt;/p&gt;
+
+&lt;p&gt;類似サービスは他にもありますが(Parseとか)、&lt;br&gt;
+Milkcocoaはリアルタイム通信に強く、&lt;br&gt;
+IoTとも相性がいいのが特長です。&lt;/p&gt;
+
+&lt;h2 id="lt/登壇者のご紹介！"&gt;LT/登壇者のご紹介！&lt;/h2&gt;
+
+&lt;h3 id="#1.milkcocoaでエクストリームライトニングトーク-by-goodpatch-よしこさん"&gt;#1.Milkcocoaでエクストリームライトニングトーク by GoodPatch よしこさん&lt;/h3&gt;
+
+&lt;p&gt;しょっぱなからさすがのクオリティ。お客さんがLTに参加できるリモコンを開発！&lt;br&gt;
+&lt;blockquote class="twitter-tweet" lang="ja"&gt;&lt;p lang="und" dir="ltr"&gt;&lt;a href="https://t.co/Anlq3J33lI"&gt;&lt;a href="https://t.co/Anlq3J33lI"&gt;https://t.co/Anlq3J33lI&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;&amp;mdash; かわの ようへい@11/8~18福岡 (@bakuonboogie) &lt;a href="https://twitter.com/bakuonboogie/status/648811490393346048"&gt;2015, 9月 29&lt;/a&gt;&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;p&gt;リモコン画面&lt;br&gt;
+&lt;blockquote class="twitter-tweet" lang="ja"&gt;&lt;p lang="ja" dir="ltr"&gt;カッコいい！&amp;#10;&lt;a href="http://t.co/T3l8E72zx9"&gt;&lt;a href="http://t.co/T3l8E72zx9"&gt;http://t.co/T3l8E72zx9&lt;/a&gt;&lt;/a&gt;&amp;#10; &lt;a href="https://twitter.com/hashtag/mlkcca?src=hash"&gt;#mlkcca&lt;/a&gt; &lt;a href="http://t.co/7X43dCmnUY"&gt;pic.twitter.com/7X43dCmnUY&lt;/a&gt;&lt;/p&gt;&amp;mdash; 木檜(こぐれ)和明@ITエンジニア (@kogurek1) &lt;a href="https://twitter.com/kogurek1/status/648810826443304961"&gt;2015, 9月 29&lt;/a&gt;&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;h3 id="#2.非エンジニアがmilkcocoaでリアルタイムの位置情報を取得してみた"&gt;#2.非エンジニアがMilkcocoaでリアルタイムの位置情報を取得してみた&lt;/h3&gt;
+
+&lt;h3 id="#1.はじめてのmilkcocoa"&gt;#1.はじめてのMilkcocoa&lt;/h3&gt;
+
+&lt;h3 id="#1.ウェブプログラミング学習のおともに、milkcocoa"&gt;#1.ウェブプログラミング学習のおともに、Milkcocoa&lt;/h3&gt;
+
+&lt;h3 id="#1.milkcocoa-+-gmaps.jsでバーチャルサバゲ作ってみた"&gt;#1.Milkcocoa + gmaps.jsでバーチャルサバゲ作ってみた&lt;/h3&gt;
+
+&lt;h3 id="#1.iot超初心者がmilkcocoaからラズパイに遠隔lチカしてみた"&gt;#1.IoT超初心者がMilkcocoaからラズパイに遠隔Lチカしてみた&lt;/h3&gt;
+
+&lt;h3 id="#1.milkcocoaでrpg風味なlifehack!"&gt;#1.MilkcocoaでRPG風味なLifehack!&lt;/h3&gt;
+
+&lt;h3 id="#1.milkcocoaにhello-worldしてみた！"&gt;#1.MilkcocoaにHello worldしてみた！&lt;/h3&gt;
+
+&lt;p&gt;&lt;iframe src="//www.slideshare.net/slideshow/embed_code/key/F0ebpLC7hNYUuV" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt; &lt;div style="margin-bottom:5px"&gt; &lt;strong&gt; &lt;a href="//www.slideshare.net/YukikoTamiya/milkcocoa-gmapsjs" title="Milkcocoa + gmaps.jsで、バーチャルサバゲを作ってみた" target="_blank"&gt;Milkcocoa + gmaps.jsで、バーチャルサバゲを作ってみた&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href="//www.slideshare.net/YukikoTamiya" target="_blank"&gt;Yukiko Tamiya&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>middlemanでブログ立ててみました</title>
+    <link rel="alternate" href="http://blog.url.com/2015/09/20/tech-article-1.html"/>
+    <id>http://blog.url.com/2015/09/20/tech-article-1.html</id>
+    <published>2015-09-20T00:00:00+09:00</published>
+    <updated>2015-10-03T20:26:45+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h2 id="markdown/カスタマイズし放題/好きなエディタでアップできる/の三拍子が揃ったmiddleman"&gt;Markdown/カスタマイズし放題/好きなエディタでアップできる/の三拍子が揃ったMiddleman&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="#"&gt;Qiita&lt;/a&gt;のエディタ「Kobito」が大好きで、ちょっとしたメモ代わりによく使っています。&lt;/p&gt;
+
+&lt;p&gt;Kobito好きならブログ作らなくてもQiitaにアップすりゃーいいじゃん。&lt;/p&gt;
+
+&lt;p&gt;って話なんですが、勉強会のレポートとか雑記っぽい話はやっぱちとQiitaは違うし、&lt;br&gt;
+自分が作ってるアプリとかリンクして、アピールしたくなっちゃったんです。&lt;/p&gt;
+
+&lt;p&gt;じゃぁMarkdown対応の&lt;a href="#"&gt;はてぶ&lt;/a&gt;は？と思いましたがオリジナリティがないなーと。&lt;br&gt;
+必要な機能全部入ってるしドメインももらえるから、立ち上げはめっちゃ楽だけど。&lt;/p&gt;
+
+&lt;p&gt;どうせならデザインもレイアウトもガシガシいじれて、&lt;br&gt;
+とにかく簡単にアップできるものがいいなーなんて。&lt;br&gt;
+三日坊主の代名詞なわたしは、「面倒くさい」を感じないものにしたかった。&lt;/p&gt;
+
+&lt;p&gt;探していたら、たまたまteratailさんの&lt;a href="https://teratail.com/blog/article/ba16"&gt;イベント記事&lt;/a&gt;をのぞき、こんなLTを発見。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="//www.slideshare.net/yusakukinoshita58/150612-middlemanikuwow"&gt;『Middlemanで技術ブログ作るとみんな幸せになるよ！』&lt;/a&gt;&lt;br&gt;
+&lt;iframe src="//www.slideshare.net/slideshow/embed_code/key/DsX3Is6miGcL4U" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;Middleman・・？&lt;br&gt;
+初めて聞いたぞ。&lt;/p&gt;
+
+&lt;p&gt;とりあえず&lt;a href="https://middlemanapp.com/jp/"&gt;本家&lt;/a&gt;を見に行くとめっちゃシンプルなページ&lt;/p&gt;
+
+&lt;p&gt;なんか立ち上げも簡単そう・・！&lt;br&gt;
+そしてプレゼン資料にあった魅力的なことば&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;いつものエディタでMarkDown&lt;/li&gt;
+&lt;li&gt;RailsのViewっぽくかける&lt;/li&gt;
+&lt;li&gt;Github Page使えば、pushで反映可能&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;条件ぴったりなんてこったい／(^o^)＼&lt;br&gt;
+Vimmerはもっと幸せになるんだろな・・わたしはSublimeでやりますが。&lt;br&gt;
+しかもあまり周りが使ってないマイナー感がイイ！&lt;/p&gt;
+
+&lt;p&gt;即決！君に決めた！！&lt;/p&gt;
+
+&lt;h2 id="middlemanでブログを立ててみる"&gt;Middlemanでブログを立ててみる&lt;/h2&gt;
+
+&lt;p&gt;ざっくりな手順はこんな感じ&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;middlemanをインストール&lt;/li&gt;
+&lt;li&gt;テンプレ導入してローカルで立ち上げてみる&lt;/li&gt;
+&lt;li&gt;GitHub Page用のリポ作成 &amp;amp; デプロイしてみる&lt;/li&gt;
+&lt;li&gt;カスタマイズ&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id="1.-middlemanをインストール"&gt;1. middlemanをインストール&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="https://middlemanapp.com/jp/"&gt;公式&lt;/a&gt;どおりにやってみる。&lt;/p&gt;
+
+&lt;h2 id="2.-テンプレ導入してローカルで立ち上げてみる"&gt;2. テンプレ導入してローカルで立ち上げてみる&lt;/h2&gt;
+
+&lt;h2 id="3.-github-page用のリポ作成-&amp;amp;-デプロイしてみる"&gt;3. GitHub Page用のリポ作成 &amp;amp; デプロイしてみる&lt;/h2&gt;
+
+&lt;h2 id="4.-カスタマイズ"&gt;4. カスタマイズ&lt;/h2&gt;
+
+&lt;p&gt;ここでは最低限必要そうな設定だけ紹介します。&lt;/p&gt;
+
+&lt;p&gt;デザインやレイアウト変更やコンテンツ追加等々は、&lt;br&gt;
+長くなりそうなので別記事で作成予定です。&lt;/p&gt;
+
+&lt;h3 id="config.rbの変更"&gt;config.rbの変更&lt;/h3&gt;
+
+&lt;p&gt;&lt;code&gt;Time.zone = &amp;quot;Tokyo&amp;quot;&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id="middlemanでのブログの書き方"&gt;Middlemanでのブログの書き方&lt;/h2&gt;
+</content>
+  </entry>
+</feed>
